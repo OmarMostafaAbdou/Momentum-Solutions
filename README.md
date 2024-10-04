@@ -1,8 +1,35 @@
-# React + Vite
+# Momemtum-Solutions Task Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React project built with Vite for fast development and optimized production builds.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Technologies](#technologies)
+- [Getting Started](#getting-started)
+- [Running the Development Server](#running-the-development-server)
+
+## Features
+
+- 
+- Simple configuration and setup
+
+## Technologies
+
+- React
+- Vite
+- JavaScript 
+- CSS
+- Bootstrap
+- Redux
+- React Query
+  
+
+## Getting Started
+
+To get started with this project:
+- npm install to install Packages
+- npm run dev to run in Local
+## Running the Development Server
+
+https://momentum-solutions.vercel.app/
