@@ -10,8 +10,6 @@ This is a React project built with Vite for fast development and optimized produ
 - [Running the Development Server](#running-the-development-server)
 
 ## Features
-
-- 
 - Simple configuration and setup
 
 ## Technologies
